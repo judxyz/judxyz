@@ -1,1 +1,1 @@
-Computer Science student @ University of Alberta
+CS @ University of Alberta
