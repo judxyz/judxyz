@@ -5,4 +5,8 @@ I'm Judy (she/her), currently a third year CS student at the University of Alber
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=py,fastapi,flask,github,sklearn,azure,postgres,cpp,react)](https://skillicons.dev)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=judxyz&rank_icon=github&include_all_commits=true&disable_animations=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=judxyz&rank_icon=github&include_all_commits=true&disable_animations=true&theme=light_github)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/judxyz/judxyz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/judxyz/judxyz/output/github-snake.svg" />
+  <img alt="snake.yml" src="https://raw.githubusercontent.com/judxyz/judxyz/output/github-snake.svg" />
+</picture>
